@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".misi">
+
+    <TextView
+        android:paddingTop="10dp"
+        android:id="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:textColor="#000000"
+        android:text="Visi Ubhara Jaya"/>
+
+    <ImageView
+        android:id="@+id/imgUbjMisi"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ubj1"/>
+
+    <TextView
+        android:paddingTop="5dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="5dp"
+        android:layout_below="@id/imgUbjMisi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/misi1"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        android:justificationMode="inter_word"
+        android:text="@string/ubj_misi_1"/>
+    <TextView
+        android:paddingTop="5dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="5dp"
+        android:layout_below="@id/misi1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/misi2"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        android:justificationMode="inter_word"
+        android:text="@string/ubj_misi_2"/>
+
+    <TextView
+        android:paddingTop="5dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="5dp"
+        android:layout_below="@id/misi2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/misi3"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        android:justificationMode="inter_word"
+        android:text="@string/ubj_misi_3"/>
+
+    <TextView
+        android:paddingTop="5dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="5dp"
+        android:layout_below="@id/misi3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/misi4"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        android:justificationMode="inter_word"
+        android:text="@string/ubj_misi_4"/>
+
+    <TextView
+        android:paddingTop="5dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="15dp"
+        android:layout_below="@id/misi4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/misi5"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        android:justificationMode="inter_word"
+        android:text="@string/ubj_misi_5"/>
+
+    <Button
+        android:layout_below="@id/misi5"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnMisi1"
+        android:text="Kembali"/>
+
+</RelativeLayout>

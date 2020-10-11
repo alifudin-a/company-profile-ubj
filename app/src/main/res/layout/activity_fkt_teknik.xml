@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fk_teknik">
+
+    <TextView
+        android:paddingTop="10dp"
+        android:paddingBottom="20dp"
+        android:textSize="24sp"
+        android:textColor="#000000"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fakultas Teknik"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:paddingTop="20dp"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:id="@+id/imgFkteknik"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/ubj1"
+        android:paddingBottom="10dp"/>
+
+    <TextView
+        android:id="@+id/txtVisi1"
+        android:paddingLeft="10dp"
+        android:layout_below="@id/imgFkteknik"
+        android:layout_width="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_height="wrap_content"
+        android:text="Visi Fakultas Teknik"/>
+
+    <TextView
+        android:paddingRight="30dp"
+        android:textSize="14sp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtVisi1"
+        android:paddingLeft="30dp"
+        android:id="@+id/txtVisi2"
+        android:text="@string/visiTeknik"/>
+
+    <TextView
+        android:id="@+id/txtMisi1"
+        android:paddingLeft="10dp"
+        android:layout_below="@id/txtVisi2"
+        android:layout_width="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_height="wrap_content"
+        android:text="Misi Fakultas Teknik"/>
+
+    <TextView
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtMisi1"
+        android:paddingLeft="30dp"
+        android:id="@+id/txtMisi2"
+        android:textSize="14sp"
+        android:text="@string/misiTeknik1"/>
+
+    <TextView
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtMisi2"
+        android:paddingLeft="30dp"
+        android:id="@+id/txtMisi3"
+        android:textSize="14sp"
+        android:text="@string/misiTeknik2"/>
+
+    <TextView
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtMisi3"
+        android:paddingLeft="30dp"
+        android:id="@+id/txtMisi4"
+        android:textSize="14sp"
+        android:text="@string/misiTeknik3"/>
+
+    <TextView
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtMisi4"
+        android:paddingLeft="30dp"
+        android:id="@+id/txtMisi5"
+        android:textSize="14sp"
+        android:text="@string/misiTeknik4"/>
+
+    <TextView
+        android:id="@+id/txtTujuan"
+        android:paddingLeft="10dp"
+        android:layout_below="@id/txtMisi5"
+        android:layout_width="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_height="wrap_content"
+        android:text="Tujuan Fakultas Teknik"/>
+
+    <TextView
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtTujuan"
+        android:paddingLeft="30dp"
+        android:id="@+id/txtTujuan1"
+        android:textSize="14sp"
+        android:text="@string/tujuanTeknik"/>
+
+    <TextView
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtTujuan1"
+        android:paddingLeft="30dp"
+        android:id="@+id/txtTujuan2"
+        android:textSize="14sp"
+        android:text="@string/tujuanTeknik1"/>
+
+    <TextView
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtTujuan2"
+        android:paddingLeft="30dp"
+        android:id="@+id/txtTujuan3"
+        android:textSize="14sp"
+        android:text="@string/tujuanTeknik3"/>
+
+
+    <TextView
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtTujuan3"
+        android:paddingLeft="30dp"
+        android:id="@+id/txtTujuan4"
+        android:textSize="14sp"
+        android:paddingBottom="20dp"
+        android:text="@string/tujuanTeknik4"/>
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtTujuan4"
+        android:layout_centerHorizontal="true"
+        android:text="Kembali"/>
+
+
+</RelativeLayout>

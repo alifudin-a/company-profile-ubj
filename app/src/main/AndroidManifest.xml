@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.alifudin.companyprofile">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".prodi_fkt_informatika"></activity>
+        <activity android:name=".prodi_fip_pendidikan_kepelatihan_olahraga" />
+        <activity android:name=".prodi_fip_pendidikan_guru_sekolah_dasar" />
+        <activity android:name=".fk_ilmu_pendidikan" />
+        <activity android:name=".fk_psikologi" />
+        <activity android:name=".fk_ilmu_komunikasi" />
+        <activity android:name=".prodi_fkedb_magister_manajemen" />
+        <activity android:name=".prodi_fkedb_manajemen" />
+        <activity android:name=".prodi_fkedb_akuntansi" />
+        <activity android:name=".fk_ekonomi_dan_bisnis" />
+        <activity android:name=".prodi_fkt_perminyakan" />
+        <activity android:name=".prodi_fkt_lingkungan" />
+        <activity android:name=".prodi_fkt_kimia" />
+        <activity android:name=".prodi_fkt_industri" />
+        <activity android:name=".fk_teknik" />
+        <activity android:name=".prodi_fkh_magister_hukum" />
+        <activity android:name=".prodi_fkh_ilmu_hukum" />
+        <activity android:name=".fk_hukum" />
+        <activity android:name=".fk.fk_hukum" />
+        <activity android:name=".fakultas_ubj.fakultas_hukum" />
+        <activity android:name=".biodata" />
+        <activity android:name=".prodi" />
+        <activity android:name=".fakultas" />
+        <activity android:name=".misi" />
+        <activity android:name=".visi" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
