@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".prodi_fkh_ilmu_hukum">
+
+    <TextView
+        android:paddingTop="10dp"
+        android:paddingBottom="20dp"
+        android:textSize="24sp"
+        android:textColor="#000000"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fakultas Hukum"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:paddingTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgFkHukum"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/ubj1"
+        android:paddingBottom="10dp"/>
+
+    <TextView
+        android:id="@+id/txtVisi1"
+        android:paddingLeft="10dp"
+        android:layout_below="@id/imgFkHukum"
+        android:layout_width="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_height="wrap_content"
+        android:text="Visi Prodi Ilmu Hukum"/>
+
+    <TextView
+        android:paddingRight="30dp"
+        android:textSize="12sp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtVisi1"
+        android:paddingLeft="30dp"
+        android:id="@+id/txtVisi2"
+        android:text="@string/visiProdiIH"/>
+
+    <TextView
+        android:id="@+id/txtMisi1"
+        android:paddingLeft="10dp"
+        android:layout_below="@id/txtVisi2"
+        android:layout_width="wrap_content"
+        android:textSize="20sp"
+        android:paddingTop="10dp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_height="wrap_content"
+        android:text="Misi Prodi Ilmu Hukum"/>
+
+    <TextView
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtMisi1"
+        android:paddingLeft="30dp"
+        android:id="@+id/txtMisi2"
+        android:textSize="12sp"
+        android:text="@string/misiPrIH"/>
+
+    <TextView
+        android:paddingRight="30dp"
+        android:textSize="12sp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtMisi2"
+        android:paddingLeft="30dp"
+        android:id="@+id/txtMisi3"
+        android:text="@string/misiPrIH1"/>
+
+    <TextView
+        android:paddingRight="30dp"
+        android:textSize="12sp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtMisi3"
+        android:paddingLeft="30dp"
+        android:id="@+id/txtMisi4"
+        android:text="@string/misiPrIH2"/>
+
+    <TextView
+        android:textSize="12sp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtMisi4"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:id="@+id/txtMisi5"
+        android:text="@string/misiPrIH3"/>
+
+    <TextView
+        android:id="@+id/txtTujuan"
+        android:paddingLeft="10dp"
+        android:layout_below="@id/txtMisi5"
+        android:layout_width="wrap_content"
+        android:textSize="20sp"
+        android:paddingTop="10dp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_height="wrap_content"
+        android:text="Tujuan Prodi Ilmu Hukum"/>
+
+    <TextView
+        android:textSize="12sp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtTujuan"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:id="@+id/txtTujuan."
+        android:text="@string/misiFkH3"/>
+
+
+    <TextView
+        android:textSize="16sp"
+        android:id="@+id/txtBlank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtTujuan."
+        android:paddingBottom="30dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnBack"
+        android:layout_below="@id/txtBlank"
+        android:paddingLeft="10dp"
+        android:text="Kembali ke Fakultas"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnBackk"
+        android:layout_below="@id/btnBack"
+        android:paddingLeft="10dp"
+        android:text="Kembali ke Prodi"/>
+
+
+</RelativeLayout>
