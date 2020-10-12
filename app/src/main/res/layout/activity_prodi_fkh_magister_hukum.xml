@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".prodi_fkh_magister_hukum">
+
+    <TextView
+        android:id="@+id/txtS2"
+        android:layout_centerHorizontal="true"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:paddingTop="10dp"
+        android:paddingBottom="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Magister Hukum (S2)"/>
+
+    <ImageView
+        android:paddingTop="1dp"
+        android:layout_below="@id/txtS2"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:id="@+id/imgFkHukum"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/ubj1"
+        android:paddingBottom="1dp"/>
+
+    <TextView
+        android:id="@+id/visiMg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Visi Prodi Magister Hukum :"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_below="@id/imgFkHukum"
+        android:paddingLeft="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/visiMg"
+        android:id="@+id/visiMg1"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:text="@string/visiMagS2"/>
+
+    <TextView
+        android:id="@+id/misiMg."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Misi Prodi Magister Hukum :"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_below="@id/visiMg1"
+        android:paddingLeft="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/misiMg."
+        android:id="@+id/misiMg.."
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:text="@string/misiMagS2"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/misiMg.."
+        android:id="@+id/misiMg1"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:text="@string/misiMagS2.1"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/misiMg1"
+        android:id="@+id/misiMg2"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:text="@string/misiMagS2.2"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/misiMg2"
+        android:id="@+id/misiMg3"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:text="@string/misiMagS2.3"/>
+
+    <TextView
+        android:id="@+id/tujuanMg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tujuan Prodi Magister Hukum :"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_below="@id/misiMg3"
+        android:paddingLeft="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tujuanMg"
+        android:id="@+id/tujuanMg."
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:text="@string/tujuanMagS2"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tujuanMg."
+        android:id="@+id/tujuanMg1"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:text="@string/tujuanMagS2.1"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tujuanMg1"
+        android:id="@+id/tujuanMg2"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:text="@string/tujuanMagS2.2"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tujuanMg2"
+        android:id="@+id/tujuanMg3"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:text="@string/tujuanMagS2.3"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tujuanMg3"
+        android:id="@+id/tujuanMg4"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:text="@string/tujuanMagS2.4"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tujuanMg4"
+        android:id="@+id/tujuanMg5"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:text="@string/tujuanMagS2.5"/>
+
+    <TextView
+        android:id="@+id/txtBlank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tujuanMg5"
+        android:paddingBottom="20dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnBack"
+        android:text="Kembali"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/txtBlank"/>
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".prodi">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textPr1"
+                android:textColor="#000000"
+                android:textAlignment="center"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:paddingTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Informasi Prodi" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/prImg1"
+                android:src="@drawable/ubj1"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnPr1"
+                android:text="Ilmu Hukum (S1)"
+                android:layout_below="@id/prImg1"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnPr2"
+                android:text="Magister Hukum (S2)"
+                android:layout_below="@id/btnPr1"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnPr3"
+                android:text="Teknik Industri"
+                android:layout_below="@id/btnPr2"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnPr4"
+                android:text="Teknik Kimia"
+                android:layout_below="@id/btnPr3"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnPr5"
+                android:text="Teknik Lingkungan"
+                android:layout_below="@id/btnPr4"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnPr6"
+                android:text="Teknik Perminyakan"
+                android:layout_below="@id/btnPr5"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnPr10"
+                android:text="Teknik Informatika"
+                android:layout_below="@id/btnPr5"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnPr7"
+                android:text="Akuntansi (S1)"
+                android:layout_below="@id/btnPr10"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnPr8"
+                android:text="Manajemen (S1)"
+                android:layout_below="@id/btnPr7"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnPr9"
+                android:text="Magister Manajemen (S2)"
+                android:layout_below="@id/btnPr8"/>
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnPr12"
+                android:text="Pendidikan Guru Sekolah Dasar"
+                android:layout_below="@id/btnPr9"/>
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnPr13"
+                android:text="Pendidikan Kepelatihan Olahraga"
+                android:layout_below="@id/btnPr12"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/btnPr14"
+                android:text="ilmu Komputer"
+                android:layout_below="@id/btnPr13"/>
+
+            <Button
+                android:id="@+id/btnBack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/btnPr14"
+                android:text="Kembali"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fk_ilmu_pendidikan">
+
+    <TextView
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:textSize="24sp"
+        android:id="@+id/fikom"
+        android:textColor="#000000"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fakultas Ilmu Pendidikan"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:paddingTop="1dp"
+        android:layout_below="@id/fikom"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:id="@+id/imgFIP"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/ubj1"
+        android:paddingBottom="1dp"/>
+
+    <TextView
+        android:id="@+id/txtVisi1"
+        android:paddingLeft="10dp"
+        android:layout_below="@id/imgFIP"
+        android:layout_width="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_height="wrap_content"
+        android:text="Visi Fakultas Ilmu Pendidikan"/>
+
+    <TextView
+        android:paddingRight="30dp"
+        android:textSize="16sp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtVisi1"
+        android:paddingLeft="30dp"
+        android:id="@+id/txtVisi2"
+        android:text="@string/visiFIP"/>
+
+    <TextView
+        android:id="@+id/txtMisi1"
+        android:paddingLeft="10dp"
+        android:layout_below="@id/txtVisi2"
+        android:layout_width="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:layout_height="wrap_content"
+        android:text="Misi Fakultas Ilmu Pendidikan"/>
+
+    <TextView
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtMisi1"
+        android:paddingLeft="30dp"
+        android:id="@+id/txtMisi2"
+        android:textSize="16sp"
+        android:text="@string/misiFIP1"/>
+
+    <TextView
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtMisi2"
+        android:paddingLeft="30dp"
+        android:id="@+id/txtMisi3"
+        android:textSize="16sp"
+        android:text="@string/misiFIP2"/>
+
+    <TextView
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtMisi3"
+        android:paddingLeft="30dp"
+        android:id="@+id/txtMisi4"
+        android:textSize="16sp"
+        android:text="@string/misiFIP3"/>
+
+    <TextView
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtMisi4"
+        android:paddingLeft="30dp"
+        android:id="@+id/txtMisi5"
+        android:textSize="16sp"
+        android:text="@string/misiFIP4"/>
+
+    <TextView
+        android:paddingRight="30dp"
+        android:justificationMode="inter_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtMisi5"
+        android:paddingLeft="30dp"
+        android:id="@+id/txtMisi6"
+        android:textSize="16sp"
+        android:paddingBottom="20dp"
+        android:text="@string/misiFIP5"/>
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtMisi6"
+        android:layout_centerHorizontal="true"
+        android:text="Kembali"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">Company Profile</string>
+    <string name="ubj_profile">Universitas Bhayangkara Jakarta Raya (Ubhara Jaya) sebagai salah satu Perguruan Tinggi Swasta yang berada dibawah pembinaan Yayasan Brata Bhakti sebagai badan penyelenggaranya, berkewajiban mewujudkan tujuan pendidikan nasional dengan Visi dan Misi nya bagi mendukung keberhasilan tugas Kepolisian Negara Republik Indonesia khususnya dan pengembangan kualitas hidup bermasyarakat berbangsa dan benegara pada umumnya.</string>
+    <string name="ubj_visi">Visi Ubhara Jaya adalah terwujudnya Universitas Bhayangkara Jakarta Raya sebagai universitas unggulan di tingkat nasional yang berwawasan kebangsaan dan berbasis sekuriti guna menghasilkan sumber daya manusia yang mampu bersaing dan berperilaku baik.</string>
+    <string name="ubj_misi_1">1. Menghasilkan lulusan yang berkualitas dalam peningkatan mutu sumber daya manusia.</string>
+    <string name="ubj_misi_2">2. Melakukan proses pembelajaran sesuai dengan kurikulum perguruan tinggi yang adaptif terhadap perkembangan ilmu pengetahuan, teknologi dan seni.</string>
+    <string name="ubj_misi_3">3. Melakukan penelitian dalam rangka pengembangan ilmu dan teknologi, baik pada bidang keilmuan dasar maupun aplikatif.</string>
+    <string name="ubj_misi_4">4. Melakukan pengabdian kepada masyarakat melalui penerapan ilmu pengetahuan dna teknologi untuk meningkatkan kualitas hidup masyarakat.</string>
+    <string name="ubj_misi_5">5. Berkontribusi aktif dan bekerja sama dalam kegiatan ilmiah khususnya yang menyangkut tugas kepolisian, mengenai masalah sosial dan penanganannya dalam rangka upaya mewujudkan ketertiban, keamanan, keadilan, dan kesejahteraan masyarakat.</string>
+    <string name="copyright">Copyright © 2020 UBHARAJAYA. All rights reserved.</string>
+
+    <string name="bio1">Nama</string>
+    <string name="bio2">NPM</string>
+    <string name="bio3">Kelas</string>
+    <string name="bio4">Fakultas</string>
+    <string name="bio5">Prodi</string>
+    <string name="bio6">Angkatan</string>
+    <string name="bio7">Semester</string>
+
+    <string name="visiFkH">Visi FH Ubhara jaya adalah “Terwujudnya FH Ubhara Jaya Unggulan yang menghasilkan Lulusan Berwawasan Kebangsaan dan Berdaya Saing serta Menjunjung Tinggi Kepastian Hukum berdasarkan pada Keamanan Manusia (human security) di Tingkat Nasional pada tahun 2022.</string>
+    <string name="misiFkH">Untuk mewujudkan visi di atas, maka misi yang akan dilakukan oleh FH Ubhara adalah:</string>
+    <string name="misiFkH1">1. Menyelenggarakan pendidikan berkualitas yang terjadwal secara teratur, terencana dan efektif dalam rangka menghasilkan lulusan yang berkualitas, profesional dan berintegritas dengan berdasarkan keamanan manusia (human security);</string>
+    <string name="misiFkH2">2. Menyelenggarakan dan meningkatkan kegiatan penelitian dan pengabdian dengan meningkatkan kerjasama dengan institusi terkait di dalam dan luar negeri;</string>
+    <string name="misiFkH3">3. Menyelenggarakan dan meningkatkan kegiatan pengabdian kepada masyarakat dengan meningkatkan praktik penyuluhan hukum, konsultasi, dan bantuan hukum kepada masyarakat.</string>
+
+    <string name="visiMagS2">Visi Prodi Magister Hukum adalah Menjadi Program Studi terdepan dalam menghasilkan Magister Hukum yang Profesional dalam Legal Security dan berwawasan kebangsaan dalam bidang Hukum pada tahun 2027</string>
+    <string name="misiMagS2">Untuk mewujudkan visi di atas, maka misi yang akan dilakukan Prodi Magister Hukum adalah:</string>
+    <string name="misiMagS2.1">1. Meningkatkan Kualitas dan Kuantitas Pelaksanaan Tridharma Perguruan Tinggi melalui pencapaian Pembelajaran.</string>
+    <string name="misiMagS2.2">2. Melaksanakan Penelitian dan Pengabdian kepada masyarakat berwawasan kebangsaan dan berbasis sekuriti yang dilakukan oleh dosen dan mahasiswa.</string>
+    <string name="misiMagS2.3">3. Meningkatkan efesiensi dan efektivitas manajemen ditingkat Prodi</string>
+
+    <string name="tujuanMagS2">Berpijak pada visi dan misi di atas, tujuan yang ingin dicapai Prodi Magister Hukum dalam pelaksanaan Tri Dharma Perguruan Tinggi adalah:</string>
+    <string name="tujuanMagS2.1">1. Menghasilkan Kelulusan Magister Hukum yang memiliki Kelulusan dan kedalaman Pengetahuaan, analisis, dan daya kritis sehingga dapat memahami perubahan hukum yang ada.</string>
+    <string name="tujuanMagS2.2">2. Meningkatkan Lulusan Magister Hukum yang memiliki etika dan budaya dalam menjalankan profesinya.</string>
+    <string name="tujuanMagS2.3">3. Menghasilkan Penelitian yang berbasis Legal Security dalam rangka memberikan kontribusi kepada masyarakat guna memelihara dan mempertahankan ketertiban.</string>
+    <string name="tujuanMagS2.4">4. Mengaplikasikan Ilmu berbasis Legal Security dalam bentuk pengabdian kepada masyarakat.</string>
+    <string name="tujuanMagS2.5">5. Menghasilkan kerjasama dengan Perguruan Tinggi mitra atau Lembaga-lembaga lain.</string>
+
+    <string name="visiProdiIH">Mewujudkan program studi unggulan yang menghasilkan sarjana hukum yang berintegritas tinggi serta memahami dan mermiliki kemampuan mengaplikasikan keamanan manusia (human security) di tingkat nasional pada tahun 2022.</string>
+    <string name="misiPrIH">Untuk mewujudkan visi di atas, maka misi yang akan dilakukan oleh Prodi Ilmu Hukum adalah:</string>
+    <string name="misiPrIH1">1. Menyelenggarakan kegiatan pendidikan berkualitas dengan orientasi pengembangan studi hukum yang berdasarkan pada keamanan manusia;</string>
+    <string name="misiPrIH2">2. Menyelenggarakan dan menyebarluaskan hasil penelitian di bidang hukum yang berdasarkan pada keamanan manusia demi terwujudnya ketertiban sosial di masyarakat;</string>
+    <string name="misiPrIH3">3. Menyelenggarakan dan menyebarluaskan hasil penelitian di bidang hukum yang berdasarkan pada keamanan manusia demi terwujudnya ketertiban sosial di masyarakat;</string>
+
+    <string name="visiTeknik">Visi Fakultas Teknik Ubhara Jaya adalah: ‘Pada tahun 2023 Fakultas Teknik Ubhara Jaya menjadi institusi pendidikan tinggi di bidang keteknikan yang berkualitas di Indonesia, berwawasan kebangsaan dan mampu berperan aktif dalam pembangunan bangsa melalui proses pendidikan, penelitian, dan pengabdian kepada masyarakat.’</string>
+
+    <string name="misiTeknik">Misi Fakultas Teknik sampai dengan tahun 2019 adalah:</string>
+    <string name="misiTeknik1">1. Mewujudkan sistem tata kelola yang mengantar Fakultas Teknik mencapai arah pengembangan yang ditetapkan.</string>
+    <string name="misiTeknik2">2. Menyelenggarakan proses pendidikan dengan tata kelola pendidikan yang melampaui ambang minimal yang ditetapkan untuk standar nasional dan menghasilkan lulusan yang siap terap serta mampu bersaing di dunia kerja.</string>
+    <string name="misiTeknik3">3. Menyelenggarakan penelitian, pengembangan dan penyebarluasan ilmu pengetahuan dan teknologi, serta melakukan kegiatan pengabdian kepada masyarakat khususnya di bidang keteknikan dalam rangka meningkatkan taraf kehidupan masyarakat dan ikut mendukung pelaksanaan tugas Polri.</string>
+    <string name="misiTeknik4">4. Mengembangkan kerja sama dan networking dengan pihak-pihak yang relevan dalam rangka perwujudan tridharma perguruan tinggi.</string>
+
+    <string name="tujuanTeknik">Berpijak pada visi dan misi di atas, tujuan yang ingin dicapai Fakultas Teknik Ubhara Jaya adalah:</string>
+    <string name="tujuanTeknik1">1. Terwujudnya sistem tata kelola yang efisien dimana tiga komponen tata kelola (kerangka peraturan, menajemen dan para pihak) bekerja sama secara sinergis untuk mencapai arah pengembangan fakultas dengan mengadopsi falsafah Ubhara Jaya sebagai institusi pelayanan publik.</string>
+    <string name="tujuanTeknik2">2. Terwujudnya sistem pembelajaran yang berstandar nasional.</string>
+    <string name="tujuanTeknik3">3. Meningkatkan kuantitas dan kualitas penelitian dan pengabdian pada masyarakat untuk menunjang mutu pendidikan serta sumber daya manusia di Fakultas Teknik.</string>
+    <string name="tujuanTeknik4">4. Terwujudnya networking pada level fakultas dan program studi sebagai institusi dengan institusi lain dan pada level anggota sivitas academika Fakultas Teknik dengan anggota sivitas academica institusi lain.</string>
+
+
+    <string name="deskripsiFtIndustri">Program Studi Teknik Industri Bhayangkara adalah disiplin kerekayasaan yang berkaitan dengan perancangan, penginstalasian, perbaikan suatu sistem integral, yang terdiri dari manusia, peralatan/mesin, bahan, energi dan informasi. Jalur pilihan pada program studi ini adalah Sistem Manufaktur dan Manajemen Industri.</string>
+    <string name="visiIndustri">Pada tahun 2030 Program Studi Teknik Industri Universitas Bhayangkara Jakarta Raya menjadi program studi unggulan di tinggkat Nasional, mempunyai jiwa berwawasan kebangsaan, tanggap terhadap perubahan ilmu dan teknologi dalam bidang Teknik Industri.</string>
+
+    <string name="misiIndustri1">1. Melaksanakan pendidikan Teknik Industri yang berorientasi pada perkembangan ilmu pengetahuan dan teknologi, tanggap pada perkembangan kebutuhan pasar.</string>
+    <string name="misiIndustri2">2. Membekali mahasiswa dengan pengetahuan sebagai insan peneliti berjiwa wirausaha dan mempunyai wawasan kebangsaan.</string>
+    <string name="misiIndustri3">3. Menjalin kerjasama dengan pihak pengguna lulusan Teknik Industri baik pemerintah, swasta dan masyarakat dalam rangka peningkatan mutu hasil proses belajar mengajar dan implementasi ilmu bidang Teknik Industri.</string>
+
+    <string name="tujuanIndustri1">1. Mengidentifikasi permasalahan melalui penguasaan pengetahuan dan pembentukan wawasan sistem integral yang dipelajari.</string>
+    <string name="tujuanIndustri2">2. Memecahkan permasalahan sistem integral, melalui pembentukan keterampilan untuk merancang, menginstalasikan dan memperbaiki sistem integral tersebut.</string>
+    <string name="tujuanIndustri3">3. Memiliki sikap untuk mencari cara terbaik dalamhal mengkaji, meneliti dan pemecahan masalah sistem integral, melalui penerapan metodologi, alat analisis dan prinsip-prinsip ekonomi.</string>
+    <string name="tujuanIndustri4">4. Memiliki wawasan yang berakar pada penguasaan teknologi informasi, manajemen dan wirausaha yang mengarah pada terbentuknya jiwa inovatif serta sikap profesional dan mengabdikan ilmu untuk kepentingan masyarakat dan Negara.</string>
+
+
+    <string name="deskripsiKimia">Program Studi Teknik Kimia sebagai salah satu program studi di Fakultas Teknik yang mempelajari perancangan dan pengaturan proses industri untuk merubah sifat kimia dan fisika suatu bahan baku menjadi produk yang diinginkan dengan mempertimbangkan efisiensi energi, faktor ekonomi, keamanan dan keselamatan kerja serta kualitas lingkungan.</string>
+    <string name="visiKimia">Pada tahun 2022 menjadi Program Studi Teknik Kimia yang unggul di tingkat nasional, dibidang rekayasa dan teknologi bahan maju yang berwawasan kebangsaan dan berbasis sekuriti.</string>
+
+    <string name="misiKimia1">1. Menyelenggarakan pendidikan untuk menghasilkan lulusan yang berkualitas , memiliki kompetensi tinggi, profesional dibidang rekayasa dan teknologi bahan dan mampu mengembangkan jejaring dengan industri.</string>
+    <string name="misiKimia2">2. Menyelenggarakan penelitian di bidang rekayasa dan teknologi bahan serta bidang ilmu terkait lainya.</string>
+    <string name="misiKimia3">3. Menyelenggarakan sistem pembinaan administrasi akademik dan pengawasan proses belajar mengajar pada Program Studi Teknik Kimia.</string>
+    <string name="misiKimia4">4. Menyelenggarakan kerjasama dengan pihak pengguna alumni Teknik Kimia dalam rangka peningkatan mutu dan kompetensi lulusan Teknik Kimia.</string>
+    <string name="misiKimia5">5. Menyelenggarakan kegiatan dengan melibatkan masyarakat sebagai bentuk aplikasi keilmuan Program Studi Teknik Kimia.</string>
+
+    <string name="tujuanKimia">Pendidikan Program Studi Teknik Kimia Universitas Bhayangkara Jakarta Raya memiliki tujuan sebagaio berikut :</string>
+    <string name="tujuanKimia1">1. Menghasilkan sarjana yang berkualitas, memiliki kompetensi tinggi, [rofesional dibidang rekayasa dan teknologi bahan maju dan mampu mengembangkan jejaring dengan industri.</string>
+    <string name="tujuanKimia2">2. Menjadi pusat ilmu pengetahuan dan teknologi kimia guna mendorong pengembangan teknologi kimia terkini.</string>
+    <string name="tujuanKimia3">3. Untuk menyiapkan lulusan yang mempunyai kemampuan dalam memberdayakan masyarakat melalui pengembangan konsep pemecahan masalah dengan menggunakan metode ilmiah sesuai dengan substansi dan ketrampilan.</string>
+    <string name="tujuanKimia4">4. Memiliki penelitian yang unggul dalam bidang material maju yang memiliki orientasi pengembangan material yang dibutuhkan oleh masyarakat umum dan dapat diaplikasi ke dalam kehidupan masyarakat melalui program pengabdian kepada masyarakat.</string>
+
+    <string name="visiLingkuna">Pada tahun 2022 menjadi Program Studi Teknik Lingkungan Universitas Bhayangkara Jakarta Raya menjadi program studi unggulan di tingkat nasional, di bidang lingkungan dan teknologi berkelanjutan yang berwawasan kebangsaan dan berbasis sekuriti</string>
+    <string name="misiLingkungan1">1. Menyelenggarakan pendidikan dibidang teknologi lingkungan dan sistem serta ilmu-ilmu penunjang pencapaian kompetensi lulusan Teknik Lingkungan.</string>
+    <string name="misiLingkungan2">2. Mendorong terciptanya sarjana dan atau akademisi dengan pola pikir ilmiah yang mendukung peningkatan pengetahuan mahasiswa dan dosen serta staf jurusan Teknik Lingkungan.</string>
+    <string name="misiLingkungan3">3. Menyelenggarakan penelitian di bidang proses dan perancangan pengelolaan lingkungan yang berkesinambungan  serta bidang ilmu terkait lainnya.</string>
+    <string name="misiLingkungan4">4. Menyelenggarakan sistem pembinaan administrasi akademik dan pengawasan proses belajar mengajar pada jurusan Teknik Lingkungan.</string>
+    <string name="misiLingkungan5">5. Menyelenggarakan Tri Dharma Perguruan Tinggi, pengajaran, penelitian dan pengabdian masyarakat, serta      melaksakan kerjasama dengan pihak pengguna alumni Teknik Lingkungan dalam rangka peningkatan mutu dan kompetensi lulusan Teknik Lingkungan.</string>
+
+    <string name="deskripsiPerminyakan">Program Studi Teknik Perminyakan adalah disiplin kerekayasaan yang berkaitan dengan eksplorasi minyak dan gas bumi, penilaian formasi, teknik pemboran, teknik produksi teknik reservoir serta perencanaan transportasi dan lapangan minyak dan gas bumi.</string>
+    <string name="visiMinyak">Pada tahun 2023 Program Studi Teknik Perminyakan Universitas Bhayangkara Jakarta Raya menjadi program studi unggulan di tingkat Nasional, mempunyai wawasan kebangsaan, tanggap terhadap perubahan ilmu dan teknologi dalam bidang Teknik Perminyakan.</string>
+    <string name="misiMinyak1">1. Mewujudkan sistem tata kelola program studi yang akuntabel.</string>
+    <string name="misiMinyak2">2. Program Studi menyelenggarakan proses pendidikan sesuai standar nasional, menyelenggarakan penelitian dan pengabdian kepada masyarakat dibidang teknik perminyakan.</string>
+    <string name="misiMinyak3">3. Mengembangkan kerja sama dengan institusi dibidang perminyakan di dalam negeri.</string>
+
+    <string name="tujuanMinyak1">1. Menguasai dasar-dasar ilmiah dan ketrampilan dalam bidang teknik perminyakan sehingga mampu menemukan, memahami, menjelaskan, dan merumuskan cara penyelesaian masalah teknik-perminyakan.</string>
+    <string name="tujuanMinyak2">2. Menyelenggarakan pendidikan yang professional dalam ilmu dan teknologi perminyakan melalui suatu sistem pendidikan yang terencana, terintegrasi dan dinamis-fleksibel untuk menghasilkan sumberdaya manusia yang ahli berwawasan kebangsaan, terampil, mandiri yang siap terap dan mampu menghadapi perubahan di bidang perminyakan.</string>
+    <string name="tujuanMinyak3">3. Mampu menerapkan ilmu pengetahuan dan keterampilan keteknik-perminyakan dalam kegiatan produktif dan pelayanan kepada masyarakat dengan sikap dan perilaku yang sesuai dengan tata kehidupan bersama.</string>
+    <string name="tujuanMinyak4">4. Mampu mengikuti perkembangan ilmu pengetahuan dan teknologi dalam bidang teknik perminyakan.</string>
+    <string name="tujuanMinyak5">5. Untuk Institusi, bisa membantu untuk meningkatkan profesionalisme POLRI dalam hal penanganan, penyelidikan dan penyidikan di bidang Migas di Indonesia.</string>
+
+    <string name="visiFkEdB">Menjadi Fakultas Ekonomi yang unggul di bidang manajemen dam akuntansi ditingkat Nasional yang berwawasan kebangsaan dan berbasis sekuriti guna menghasilkan lulusan yang profesional dan beretika pada tahun 2022.</string>
+    <string name="misiFkEdB1">1. Melakukan proses pembelajaram bidang manajemen dan akuntansi berdasarkan kurikulum perguruan tinggi yang adaptif terhadap perkembanfgan IPTEK dengan mengacu pada KKNI dan SNPT.</string>
+    <string name="misiFkEdB2">2. Menyelenggarakan program pendidikan manajemen dan akuntansi berbasis sekuriti dan metodologi keilmuan terkait untuk menghasilkan lulusan yang berkualitas dan mampu bersaing dalam kehidupan sosial.</string>
+    <string name="misiFkEdB3">3. Melaksanakan penelitian dalam bidang manajemn dan akuntansi dengan membahas isu-isu terkini didalam menemukan inovasi yang baru untuk meningkatkan kualitas kehidupan masyarakat.</string>
+    <string name="misiFkEdB4">4. Melaksanakan pengambdian kepada masyarakat dalam menerapkan ilmu dan hasil-hasil penelitian di bidang manajemen dan akuntansi untuk kemaslahatan masyarakat serta mendukung pelaksanaan tugas POLRI.</string>
+    <string name="misiFkEdB5">5. Menjalin kerjasama dengan perguruan tinggi, dunia usaha dan industri, lembaga profesi dan lembaga sertifikasi pada tingkat nasional dalam rangka menghasilkan lulusan yang profesional.</string>
+
+    <string name="visiAkuntansi">"Menjadi program studi yang unggul dibidang akuntansi di tingkat nasional yang berwawasan kebangsaan dan berbasis sekuriti guna menghasilkan lulusan yang profesional dan beretika pada tahun 2022".</string>
+    <string name="misiAkuntansi1">1. Menghasilkan lulusan yang berkualitas dalam peningkatan mutu sumber daya manusia di bidang akuntansi.</string>
+    <string name="misiAkuntansi2">2. Melakukan proses pembelajaran sesuai dengan kurikulum program studi yang adaptif terhadap perkembangan ilmu pengetahuan, teknologi dan seni.</string>
+    <string name="misiAkuntansi3">3. Melakukan penelitian dalam rangka pengembangan ilmu dan teknologi baik pada bidang keilmuan dasar maupun aplikatif.</string>
+    <string name="misiAkuntansi4">4. Melakukan pengabdian kepada masyarakat melalui penerapan ilmu pengetahuan dan teknologi untuk meningkatkan kualitas kehidupan masyarakat.</string>
+    <string name="misiAkuntansi5">5. Berkontribusi aktif dan bekerja sama dalam kegiatan ilmiah khususnya yang menyangkut kepolisian di bidang akuntansi forensik sebagai perwujudan sekuriti industri/korporasi dalam rangka mewujudkan ketertiban, keadilan, dan kesejahteraan masyarakat.</string>
+
+    <string name="visiManajemen">“Menjadi program studi manajemen bisnis yang unggul dan profesional berbasis sekuriti industri serta berwawasan kebangsaan di tingkat Asia pada tahun 2032”.</string>
+    <string name="misiManajemen1">1. Melakukan proses pembelajaran sesuai KKNI yang adaptif terhadap perkembangan ilmu pengetahuan, teknologi dan seni, guna mendukung program pemerintah dalam meningkatkan sumber daya manusia di bidang Manajemen bisnis yang berwawasan kebangsaan.</string>
+    <string name="misiManajemen2">2. Melakukan penelitian dasar dan aplikatif pada bidang manajemen bisnis berbasis sekuriti.</string>
+    <string name="misiManajemen3">3. Melakukan pengabdian kepada masyarakat bidang manajemen bisnis sekuriti untuk meningkatkan kualitas kehidupan masyarakat.</string>
+    <string name="misiManajemen4">4. Mengembangkan kemitraan dengan berbagai pihak untuk penerapan dan pengembangan Ilmu Manajemen.</string>
+
+    <string name="visiMagManajemen">“Menjadi Program Studi Magister Manajemen yang Unggul, berbasis Sekuriti Industri dan Berwawasan Kebangsaan di Tingkat Nasional Pada Tahun 2022”</string>
+    <string name="misiMagManajemen1">1. Menjadikan Sekuriti, Kewirausahaan dan wawasan kebangsaan sebagai basis arah pendidikan pada tingkat Magister;</string>
+    <string name="misiMagManajemen2">2. Mengembangkan penelitian pada bidang ilmu manajemen dan bisnis berbasis sekuriti, kewirausahaan dan kebangsaan yang bermanfaat bagi pengembangan ilmu manajemen, untuk mengatasi permasalahan yang berkembang di masyarakat;</string>
+    <string name="misiMagManajemen3">3. Melaksanakan pengabdian masyarakat dengan menerapkan ilmu manajemen dan bisnis sesuai kebutuhan pengguna;</string>
+    <string name="misiMagManajemen4">4. Menyelenggarakan tata kelola yang baik (Good Corporate Governance) Program Studi Magister Manajemen untuk meraih akreditasi berstandar internasional (ABEST21 dan AACSB);</string>
+    <string name="misiMagManajemen5">5. Melaksanakan sinergi kemitraan dengan berbagai pihak, untuk meningkatkan mutu lulusan dan kemajuan ilmu manajemen berbasis manajemen sekuriti industri.</string>
+
+    <string name="visiFikom1">Fakultas Ilmu Komunikasi Unversitas Bhayangkara Jakarta Raya menjadi lembaga pendidikan tinggi yang mampu menghasilkan sumber daya manusia yang berkualitas unggul dan mampu memadukan nilai-nilai intelektual, moral dan ketertiban sosial sebagai dasar meningkatkan kualitas pendidikan bangsa pada tahun 2024.</string>
+    <string name="visiFikom2">Visi Fakultas Ilmu Komunikasi ini diturunkan dari visi Universitas Bhayangkara Jakarta Raya pada statuta tahun 2011. Visi Universitas Bhayangkara Jakarta Raya, yaitu menjadi universitas berwawasan kebangsaan dalam rangka menghasilkan sumberdaya manusia yang siap terap dan berperilaku baik.</string>
+    <string name="misiFikom1">1. Menyelenggarakan pendidikan yang bermutu dan menghasilkan sarjana ilmu komunikasi yang terampil, unggul, mandiri dan berbudaya.</string>
+    <string name="misiFikom2">2. Melakukan proses pembelajaran sesuai dengan kurikulum perguruan tinggi yang adaptif terhadap perkembangan ilmu komunikasi dan teknologi dan mengacu pada capaian pembelajaran yang tercantum dalam standar Nasional.</string>
+    <string name="misiFikom3">3. Melakukan penelitian dalam rangka pengembangan ilmu komunikasi serta mampu meningkatkan kualitas kehidupan masyarakat.</string>
+    <string name="misiFikom4">4. Melakukan pengabdian masyarakat melalui penerapan ilmu komunikasi sesuai dengan kebutuhan masyarakat, bangsa dan negara.</string>
+    <string name="misiFikom5">5. Meningkatkan kualitas sumber daya manusia untuk pengembangan kualitas tenaga pendidik dan tenaga kependidikan.</string>
+    <string name="misiFikom6">6. Melaksanakan upaya kerjasama dengan lembaga lembaga ilmu pengetahuan dan perusahaan dalam rangka meningkatkan kualitas sarjana ilmu komunikasi yang unggul dan berdaya kompetensi tinggi.</string>
+
+    <string name="visiPsikologi">menjadi Fakultas Psikologi yang unggul di tingkat nasional pada tahun 2022, berwawasan kebangsaan dan berbasis sekuriti guna menghasilkan sumber daya manusia yang mampu bersaing dan berperilaku baik.</string>
+    <string name="misiPsikologi1">1. Menyelenggarakan pendidikan tinggi berbasis Sekuriti dan Berwawasan Kebangsaan dalam rangka pembelajaran ilmu psikologi maupun aplikasinya.</string>
+    <string name="misiPsikologi2">2. Melakukan penelitian dalam rangka pengembangan ilmu psikologi yang berkualitas dan diakui di tingkat nasional regional hingga internasional.</string>
+    <string name="misiPsikologi3">3. Berperan aktif dalam pengabdian kepada masyarakat melalui penerapan ilmu pengetahuan dan teknologi untuk meningkatkan kualitas hidup masyarakat</string>
+    <string name="misiPsikologi4">4. Bekerjasama mengembangkan bidang Psikologi Kepolisian untuk dapat berkontribusi dalam tugas Kepolisian, terutama yang berkaitan dengan permasalahan psikologis untuk membantu menangani masalah sosial dan penanganannya dalam rangka mewujudkan ketertiban, keamanan dan kesejahteraan masyarakat.</string>
+    <string name="tujuanPsikologi1">1. Menghasilkan lulusan psikologi yang berkualitas dan unggul melalui program pendidikan ilmu psikologi yang jelas serta fokus di bidang Psikologi Kepolisian, sehingga mampu mengaplikasikan ilmu yang telah didapat untuk memajukan dan mengembangkan ilmu pengetahuan dengan disertai pemahaman atas aspek sekuriti dan wawasan kebangsaan.</string>
+    <string name="tujuanPsikologi2">2. Mengembangkan tenaga pendidik agar dapat berperan dalam melaksanakan penelitian dan pengabdian masyarakat di bidang psikologi untuk mencapai masyarakat yang tertib, adil, aman dan sejahtera pada umumnya, dan mendukung tugas Kepolisian Negara Republik Indonesia pada khususnya.</string>
+    <string name="tujuanPsikologi3">3. Menghasilkan lulusan psikologi yang mampu melakukan penelitian kajian ilmiah berdasarkan pengetahuan dan keahlian di bidang psikologi.</string>
+    <string name="tujuanPsikologi4">4. Menghasilkan lulusan yang mampu berperan aktif mengamalkan ilmu dan keahlian di kehidupan sehari-hari serta berkontribusi dalam pemecahan masalah di masyarakat.</string>
+
+    <string name="visiFIP">“Menjadi Fakultas unggulan berstandar nasional mampu berperan aktif dalam pembangunan bangsa di bidang pendidikan dan kepelatihan olahraga Berbasiskan Human Security pada tahun 2022.</string>
+    <string name="misiFIP1">1. Menyelenggarakan pendidikan dan pengajaran sesuai dengan Standar Nasional Pendidikan untuk menghasilkan pendidik, tenaga kependidikan dan tenaga kepelatihan olahraga profesional.</string>
+    <string name="misiFIP2">2. Menyelenggarakan penelitian yang bermutu untuk mengembangkan ilmu pendidikan dan kepelatihan olahraga dalam rangka memecahkan masalah dan melahirkan inovasi di daerah dan nasional.</string>
+    <string name="misiFIP3">3. Menyelenggarakan pengabdian kepada masyarakat dalam rangka penyebaran dan implementasi ilmu pengetahuan, teknologi di bidang pendidikan dan kepelatihan olahraga.</string>
+    <string name="misiFIP4">4. Mengembangkan kerja  sama  dan  networking  dengan  pihak-pihak relevan  dalam  rangka perwujudan Tri Dharma Perguruan T</string>
+    <string name="misiFIP5">5. Mengembangkan inovasi metode pendidikan dan pengajaran serta metode kepelatihan dalam rangka mewujudkan tujuan pendidikan nasional dan peningkatan prestasi olahraga Indonesia</string>
+
+    <string name="visiPGSD">“Mewujudkan program studi PGSD Ubhara Jaya menjadi program studi unggulan yang berkarakter pendidik, berintegritas tinggi, dan profesional dalam mengajar, ramah anak dan berkarakter human security pada tahun 2022.”</string>
+    <string name="misiPGSD1">1. Menyelenggarakan dan mengembangkan pendidikan yang berkualitas, dengan menerapkan metode pembelajaran modern berlandaskan budaya akademik yang ramah anak berbasis human security.</string>
+    <string name="misiPGSD2">2. Menyelenggarakan penelitian yang berbasis ilmu pengetahuan dan teknologi untuk meningkatkan kualitas pendidikan dibidang ke-SD-an dan menghasilkan produk ilmiah yang berkualitas.</string>
+    <string name="misiPGSD3">3. Menyelenggarakan layanan pengabdian kepada masyarakat secara profesional dalam rangka peningkatan kualitas hidup bermasyarakat.</string>
+    <string name="misiPGSD4">4. Menyelenggarakan dan mengembangkan pembelajaran di bidang ke-SD-an yang kreatif, inovatif, dan berwawasan kebangsaan.</string>
+    <string name="misiPGSD5">5. Membangun kerjasama dalam hal pengembangan Program Studi dengan stakeholder dan instansi terkait, baik Nasional maupun Internasional.</string>
+
+    <string name="visiPKO">” Mewujudkan Program Studi Pendidikan Kepelatihan Olahraga yang Unggul, mampu mencetak pelatih olahraga profesional berwawasan human security dan memiliki kecakapan di bidang pendidikan pada tahun 2022 “</string>
+    <string name="misiPKO1">1. Menyelenggarakan pendidikan bermutu untuk menghasilkan sumber daya manusia berkompetensi tinggi di bidang kepelatihan olahraga yang sehat, unggul, dan sejahtera serta berwawasan human security sehingga mampu bekerja secara profesional sesuai kebutuhan pembangunan.</string>
+    <string name="misiPKO2">2. Menyelenggarakan penelitian yang berbasis ilmu pengetahuan dan teknologi olahraga guna menghasilkan inovasi baru di bidang kepelatihan olahraga yang bermakna dan menjadi acuan masyarakat.</string>
+    <string name="misiPKO3">3. Menyelenggarakan kegiatan pengabdian kepada masyarakat dalam rangka mengembangkan keilmuan di bidang kepelatihan olahraga demi kesejahteraan masyarakat, kemajuan bangsa, dan kemanusiaan.</string>
+    <string name="misiPKO4">4. Membangun kerjasama dengan berbagai instansi dan lembaga baik skala nasional maupun internasional dalam hal tridarma perguruan tinggi berpedoman pada prinsip kesetaraan, saling menghormati dan saling menguntungkan guna peningkatan dan pengembangan prodi.</string>
+    <string name="misiPKO5">5. Menyelenggarakan program studi dengan menerapkan prinsip good governance (responsif, efektif, efisien, akuntabel, dan transparan) agar dapat berdaya saing di tingkat nasional dan internasional.</string>
+
+    <string name="deskripsiTIF1">Secara umum informatika dibataskan sebagai kumpulan disiplin ilmu dan teknik yang secara khusus menangani masalah transformasi atau pengolahan fakta simbolik, dengan menggunakan komputer. Dalam melaksanakan tranformasi dan mengolah fakta simbolik itu ditempuh proses-proses logika yang pada tingkat paling tinggi. Ciri paling dominan informatika adalah logika dan sistematika.</string>
+    <string name="deskripsiTIF2">Secara umum komponen dasar ilmu informatika adalah perangkat keras komputer, perangkat lunak, teori informatika, matematika komputasi dan aplikasi. Aplikasi informatika mencakup hampir semua bidang kehidupan manusia. Yang lebih dikemukakan dalam program studi Teknik Informatika adalah penerapan dalam bisnis dan administrasi, aplikasi dan sekuriti teknologi informasi pada industri. Dengan demikian secara garis besar kurikulum memberi bekal kepada para lulusan, agar mampu berperan sebagai pendorong dan pembuat perangkat lunak komputer yang memanfaatkan metoda yang ada, secara bersistem untuk menyelesaikan masalah dengan bantuan komputer dengan kemampuan utama pada bidang sekuriti pada teknologi informasi</string>
+    <string name="visiTIF">Menjadi Program Studi informatika unggulan, yang berwasasan kebangsaan dan berbasis sekuriti ditingkat nasional tahun 2022.</string>
+    <string name="misiTIF1">1. Menyelenggarakan kegiatan belajar mengajar dibidang informatika.</string>
+    <string name="misiTIF2">2. Mengembangkan pendidikan dan penelitian bidang informatika yang berwasasan kebangsaan dan berbasis sekuriti.</string>
+    <string name="misiTIF3">3. Meningkatkan kerjasama dengan pihak dunia usaha dan Industri dalam rangka peningkatan mutu proses belajar mengajar.</string>
+    <string name="misiTIF4">4. Menyelenggarakan kegiatan pengabdian kepada masyarakat dan penelitian sebagai bentuk kepedulian program studi Informatika</string>
+</resources>

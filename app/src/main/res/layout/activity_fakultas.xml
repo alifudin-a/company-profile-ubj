@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fakultas">
+
+    <TextView
+        android:paddingTop="10dp"
+        android:id="@+id/textFk1"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Informasi Fakultas" />
+
+    <ImageView
+        android:paddingTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/fkImg1"
+        android:src="@drawable/ubj1"/>
+
+    <TextView
+        android:id="@+id/txtInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:layout_centerHorizontal="true"
+        android:text="Klik button dibawah untuk melihat detail informasi :"
+        android:layout_below="@id/fkImg1"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnFk1"
+        android:text="Hukum"
+        android:layout_below="@id/txtInfo"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnFk2"
+        android:text="Ilmu Komputer"
+        android:layout_below="@id/btnFk1"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnFk3"
+        android:text="Teknik"
+        android:layout_below="@id/btnFk2"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnFk4"
+        android:text="Ekonomi dan Bisnis"
+        android:layout_below="@id/btnFk3"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnFk5"
+        android:text="Ilmu Komunikasi"
+        android:layout_below="@id/btnFk4"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnFk6"
+        android:text="Psikologi"
+        android:layout_below="@id/btnFk5"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnFk7"
+        android:text="Ilmu Pendidikan"
+        android:layout_below="@id/btnFk6"/>
+
+    <TextView
+        android:id="@+id/txtBlank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnFk7"
+        android:paddingBottom="20dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnBack"
+        android:text="Kembali"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/txtBlank"/>
+
+
+</RelativeLayout>
