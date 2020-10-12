@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:textSize="24sp"
         android:textColor="#000000"
-        android:text="Visi Ubhara Jaya"/>
+        android:text="Misi Ubhara Jaya"/>
 
     <ImageView
         android:id="@+id/imgUbjMisi"
