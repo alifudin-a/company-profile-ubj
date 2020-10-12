@@ -1,0 +1,122 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.alifudin.companyprofile"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:5:5-44:19
+12        android:allowBackup="true"
+12-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.1] /home/divierda/.gradle/caches/transforms-2/files-2.1/ae3468b444d41a56f261ecbb8448fe17/core-1.3.1/AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:11:9-40
+21        <activity android:name="com.alifudin.companyprofile.prodi_fkt_informatika" />
+21-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:12:9-68
+21-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:12:19-56
+22        <activity android:name="com.alifudin.companyprofile.prodi_fip_pendidikan_kepelatihan_olahraga" />
+22-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:13:9-79
+22-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:13:19-76
+23        <activity android:name="com.alifudin.companyprofile.prodi_fip_pendidikan_guru_sekolah_dasar" />
+23-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:14:9-77
+23-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:14:19-74
+24        <activity android:name="com.alifudin.companyprofile.fk_ilmu_pendidikan" />
+24-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:15:9-56
+24-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:15:19-53
+25        <activity android:name="com.alifudin.companyprofile.fk_psikologi" />
+25-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:16:9-50
+25-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:16:19-47
+26        <activity android:name="com.alifudin.companyprofile.fk_ilmu_komunikasi" />
+26-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:17:9-56
+26-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:17:19-53
+27        <activity android:name="com.alifudin.companyprofile.prodi_fkedb_magister_manajemen" />
+27-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:18:9-68
+27-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:18:19-65
+28        <activity android:name="com.alifudin.companyprofile.prodi_fkedb_manajemen" />
+28-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:19:9-59
+28-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:19:19-56
+29        <activity android:name="com.alifudin.companyprofile.prodi_fkedb_akuntansi" />
+29-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:20:9-59
+29-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:20:19-56
+30        <activity android:name="com.alifudin.companyprofile.fk_ekonomi_dan_bisnis" />
+30-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:21:9-59
+30-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:21:19-56
+31        <activity android:name="com.alifudin.companyprofile.prodi_fkt_perminyakan" />
+31-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:22:9-59
+31-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:22:19-56
+32        <activity android:name="com.alifudin.companyprofile.prodi_fkt_lingkungan" />
+32-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:23:9-58
+32-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:23:19-55
+33        <activity android:name="com.alifudin.companyprofile.prodi_fkt_kimia" />
+33-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:24:9-53
+33-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:24:19-50
+34        <activity android:name="com.alifudin.companyprofile.prodi_fkt_industri" />
+34-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:25:9-56
+34-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:25:19-53
+35        <activity android:name="com.alifudin.companyprofile.fk_teknik" />
+35-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:26:9-47
+35-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:26:19-44
+36        <activity android:name="com.alifudin.companyprofile.prodi_fkh_magister_hukum" />
+36-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:27:9-62
+36-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:27:19-59
+37        <activity android:name="com.alifudin.companyprofile.prodi_fkh_ilmu_hukum" />
+37-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:28:9-58
+37-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:28:19-55
+38        <activity android:name="com.alifudin.companyprofile.fk_hukum" />
+38-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:29:9-46
+38-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:29:19-43
+39        <activity android:name="com.alifudin.companyprofile.fk.fk_hukum" />
+39-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:30:9-49
+39-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:30:19-46
+40        <activity android:name="com.alifudin.companyprofile.fakultas_ubj.fakultas_hukum" />
+40-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:31:9-65
+40-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:31:19-62
+41        <activity android:name="com.alifudin.companyprofile.biodata" />
+41-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:32:9-45
+41-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:32:19-42
+42        <activity android:name="com.alifudin.companyprofile.prodi" />
+42-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:33:9-43
+42-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:33:19-40
+43        <activity android:name="com.alifudin.companyprofile.fakultas" />
+43-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:34:9-46
+43-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:34:19-43
+44        <activity android:name="com.alifudin.companyprofile.misi" />
+44-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:35:9-42
+44-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:35:19-39
+45        <activity android:name="com.alifudin.companyprofile.visi" />
+45-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:36:9-42
+45-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:36:19-39
+46        <activity android:name="com.alifudin.companyprofile.MainActivity" >
+46-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:37:9-43:20
+46-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:37:19-47
+47            <intent-filter>
+47-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:38:13-42:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:39:17-69
+48-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:39:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:41:17-77
+50-->/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/AndroidManifest.xml:41:27-74
+51            </intent-filter>
+52        </activity>
+53    </application>
+54
+55</manifest>

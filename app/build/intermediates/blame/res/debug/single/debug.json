@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_prodi.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_prodi.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_prodi_ft_informatika.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_prodi_ft_informatika.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_prodi_fkh_magister_hukum.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_prodi_fkh_magister_hukum.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_fk_hukum.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_fk_hukum.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_prodi_fkedb_manajemen.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_prodi_fkedb_manajemen.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_biodata.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_biodata.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/drawable_user_icon.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/drawable/user_icon.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_misi.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_misi.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/drawable_ubj.jpg.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/drawable/ubj.jpg"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_fk_ilmu_pendidikan.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_fk_ilmu_pendidikan.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_visi.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_visi.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_prodi_fkedb_magister_manajemen.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_prodi_fkedb_magister_manajemen.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_prodi_fkh_ilmu_hukum.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_prodi_fkh_ilmu_hukum.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_prodi_fkedb_akuntansi.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_prodi_fkedb_akuntansi.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_fk_ekonomi_dan_bisnis.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_fk_ekonomi_dan_bisnis.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_prodi_fkt_perminyakan.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_prodi_fkt_perminyakan.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_fkt_teknik.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_fkt_teknik.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_prodi_fkt_kimia.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_prodi_fkt_kimia.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/drawable_usericon.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/drawable/usericon.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/drawable_ubj1.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/drawable/ubj1.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_fakultas.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_fakultas.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_prodi_fip_pendidikan_guru_sekolah_dasar.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_prodi_fip_pendidikan_guru_sekolah_dasar.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_fk_psikologi.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_fk_psikologi.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_prodi_fkt_lingkungan.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_prodi_fkt_lingkungan.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_prodi_fkt_industri.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_prodi_fkt_industri.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/drawable_user_icon1.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/drawable/user_icon1.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_fk_ilmu_komunikasi.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_fk_ilmu_komunikasi.xml"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/build/intermediates/res/merged/debug/layout_activity_prodi_fip_pendidikan_kepelatihan_olahraga.xml.flat",
+        "source": "/home/divierda/AndroidStudioProjects/CompanyProfile/app/src/main/res/layout/activity_prodi_fip_pendidikan_kepelatihan_olahraga.xml"
+    }
+]
